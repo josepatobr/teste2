@@ -1,0 +1,14 @@
+# Ignorar dependências de pacotes
+node_modules/
+
+# Ignorar arquivos de compilação
+*.log
+*.class
+
+# Ignorar arquivos de configuração local
+.env
+
+# Ignorar arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
+
